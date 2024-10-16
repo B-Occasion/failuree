@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="customeRoundedButton" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/rounded_button</item>
+        <item name="android:padding">10dp</item>
+    </style>
+    <style name="customeView" parent="Widget.AppCompat.TextView">
+    <item name="android:textSize"> 12dp</item>
+    <item name="android:textStyle"> bold</item>
+    </style>
+</resources>
